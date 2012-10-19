@@ -1,0 +1,49 @@
+10
+
+dir
+0
+http://110.234.129.72/stationalert/trunk/ios/sampleView/sampleView/en.lproj
+http://110.234.129.72/stationalert
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2bf7aa90-fb29-5147-b529-6e2d54b3b4c2
+
+InfoPlist.strings
+file
+
+
+
+add
+
+ViewController_iPhone.xib
+file
+
+
+
+add
+
+ViewController_iPad.xib
+file
+
+
+
+add
+
